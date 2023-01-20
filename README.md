@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Scuttlr**
 
-- 🌱 I’m currently learning **Flutter , IOS development and AWS S2**
+- 🌱 I’m currently learning **Flutter , IOS development and Solid Principles**
 
 - 💬 Ask me about **anything related with MERN Stack**
 
