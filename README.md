@@ -98,9 +98,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amila-t-kumarasekara&show_icons=true&locale=en&layout=compact" alt="amila-t-kumarasekara" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=amila-t-kumarasekara&show_icons=true&locale=en&layout=compact" alt="amila-t-kumarasekara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amila-t-kumarasekara&show_icons=true&locale=en" alt="amila-t-kumarasekara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amila-t-kumarasekara&show_icons=true&locale=en" alt="amila-t-kumarasekara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amila-t-kumarasekara&" alt="amila-t-kumarasekara" /></p>
 
