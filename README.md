@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amilathushara11" target="blank"><img src="https://img.shields.io/twitter/follow/amilathushara11?logo=twitter&style=for-the-badge" alt="amilathushara11" /></a> </p>
 
-- 🔭 I’m currently working on **Scuttlr**
+- 🔭 I’m currently working on **Scuttlr Project It is a Hotel Booking Service**
 
 - 🌱 I’m currently learning **Flutter , IOS development and Solid Principles**
 
