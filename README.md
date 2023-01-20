@@ -20,7 +20,7 @@
 <a href="https://twitter.com/amilathushara11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amilathushara11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amilakumarasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amilakumarasekara" height="30" width="40" /></a>
 <a href="https://fb.com/amila.thushara.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amila.thushara.77" height="30" width="40" /></a>
-<a href="https://discord.gg/Bloody_assualt99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bloody_assualt99#2486" height="30" width="40" /></a>
+<a href="https://discord.gg/Bloody_assualt99#2486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Bloody_assualt99#2486" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
@@ -97,8 +97,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amila-t-kumarasekara&show_icons=true&locale=en&layout=compact" alt="amila-t-kumarasekara" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amila-t-kumarasekara&show_icons=true&locale=en" alt="amila-t-kumarasekara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amila-t-kumarasekara&" alt="amila-t-kumarasekara" /></p>
+
