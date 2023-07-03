@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chekins Project. It is a Hotel Booking Service<br><br>🌱 I’m currently learning Flutter , IOS development and Solid Principles<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
+🔭 I’m currently working on Chekins Project developing with the microservices architecture. It is a Hotel Booking Service<br><br>🌱 I’m currently learning Flutter , IOS development and Solid Principles<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
 
 
 ## 🌐 Socials:
