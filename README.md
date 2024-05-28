@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Chekins Hub developing with the microservices architecture. It is a Hotel Booking Service<br><br>🌱 I’m currently contributing to open source linkedin-skill-assessments-quizzes project.<br><br>🌱 I’m currently working on react-carousel-elastics project for releasing stable version of https://sag1v.github.io/react-elastic-carousel.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
+🔭 I’m currently working on Chekins Hub project developing with the microservices architecture. It is a Hotel Booking Service<br><br>🌱 I’m currently contributing to open source linkedin-skill-assessments-quizzes project.<br><br>🌱 I’m currently working on react-carousel-elastics project for releasing stable version of https://sag1v.github.io/react-elastic-carousel.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
 
 
 ## 🌐 Socials:
