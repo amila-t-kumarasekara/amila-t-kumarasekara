@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Voyage Hub project developing with the microservices architecture.<br><br>🌱 I’m currently working on elastic-carousel npm package for releasing stable version of @sag-v1/react-elastic-carousel.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
+🔭 I’m currently working on Voyage Hub project developing with the microservices architecture.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
 
 
 ## 🌐 Socials:
