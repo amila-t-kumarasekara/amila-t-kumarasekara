@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <img src="light.svg" alt="Amila Kumarasekara header">
+</picture>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Voyage Hub project developing with the microservices architecture.<br><br>💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
 
