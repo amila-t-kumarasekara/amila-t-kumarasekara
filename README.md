@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <img src="light.svg" alt="Amila Kumarasekara header">
-</picture>
-
-
 # 💫 About Me:
 💬 Ask me about anything related with MERN Stack<br><br>📫 How to reach me amilathushara15@gmail.com
 
